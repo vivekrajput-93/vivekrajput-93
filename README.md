@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I am Vivek Singh.<br><br>🚀 Frontend Dev | JavaScript 👨🏾‍💻 | React Enthusiast |</p>
+<p align="left">👋 Hi, I am Vivek Singh Rajput.<br><br>🚀 Frontend Dev | JavaScript 👨🏾‍💻 | React Enthusiast |</p>
 
 
 <div align="center">
