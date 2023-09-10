@@ -1,6 +1,6 @@
 <p align="left">👋 Hi, I am Vivek Singh Rajput.<br><br>🚀 Frontend Dev | JavaScript 👨🏾‍💻 | React Enthusiast |</p>
 Portfolio :<a href="https://portfolio-rosy-xi-29.vercel.app/">https://portfolio-rosy-xi-29.vercel.app/</a>
-<br />
+<hr />
 
 
 <div align="center">
