@@ -2,11 +2,7 @@
 Portfolio :<a href="https://portfolio-rosy-xi-29.vercel.app/">https://portfolio-rosy-xi-29.vercel.app/</a>
 <hr />
 
-<style>
-  a {
-    text-decoration : none;
-  }
-</style>
+
 
 
 <div align="center">
