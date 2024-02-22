@@ -14,7 +14,7 @@ Portfolio :<a href="https://portfolio-rosy-xi-29.vercel.app/">https://portfolio-
 <hr />
 
 ###
-<h1><strong>Tech stack I use :</strong></h1>
+<h1><strong>Tech stack </strong></h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="18" />
