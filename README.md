@@ -1,4 +1,4 @@
-<p align="left">👋 Hey, I am Vivek Singh.<br><br>🚀 Mern Dev | JavaScript 👨🏾‍💻 | Reactjs Enthusiast |</p>
+<p align="left">👋 Hey, I am Vivek Singh.<br><br>🚀 Mern Dev | JavaScript | Typescript | Reactjs Enthusiast |</p>
 Portfolio :<a href="https://portfolio-rosy-xi-29.vercel.app/">https://portfolio-rosy-xi-29.vercel.app/</a>
 <hr />
 
